@@ -9,3 +9,5 @@
 -Ghost by Adrien Coquet from the Noun Project
 
 -Pumpkin by Yeong Rong Kim from the Noun Project
+
+-Bat by Andrejs Kirma from the Noun Project
