@@ -11,6 +11,10 @@
 -cd into the project
 -To open type open index.html into your connsole
 
+# Deployed Site 
+
+- https://ccollums.github.io/static-comp/
+
 # Purpose 
 
 -This was a few day Turing project to practice HTML/CSS and work more with flex/grid. We only had to have the same layout as the original comp but could use some styling creativity. 
