@@ -2,7 +2,20 @@
   padding: 0;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-  /* border: solid 2px black; */
+}
+
+h2 {
+  margin: 4%;
+}
+
+h3 {
+  margin: 0 3% 0 3%;
+  font-weight: 800;
+}
+
+h4 {
+  font-size: 60%;
+  margin: .5%;
 }
 
 .body {
@@ -10,10 +23,17 @@
   flex-direction: column;
 }
 
+.ghost-icon,
+.pumpkin-icon,
+.bat-icon {
+  height: 25%;
+  margin: 0 0 4% 1%;
+}
+
 .nav-bar {
+  background-color: #8C8C8C;
   display: flex;
   flex-direction: column;
-  background-color: #260401;
   height: 20vh;
 }
 
@@ -22,30 +42,28 @@
 }
 
 .grid-section {
+  background-color: #404040;
   display: grid;
-  grid-template: repeat(4, 3fr) / repeat(4, 3fr);
-  background-color: #D9C3B0;
-  height: 60%;
+  grid-template-columns: repeat(auto-fill, minmax(355px, auto));
+  height: 80%;
 }
 
 .box {
+  background-color: white;
+  box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   margin: 5%;
-  box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
-  border: solid grey .2px;
-  background-color: white;
 }
 
 
 .username,
 .nav-headers {
+  color: white;
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
   align-items: baseline;
-  color: white;
 }
 
 .nav-headers {
@@ -56,41 +74,66 @@
 }
 
 .title {
+  background-color: #404040;
   display: flex;
   align-items: center;
-  background-color: #D9C3B0;
-  height: 10vh;
+  height: 15vh;
 }
 
 .ghost-photo {
-  position: relative;
   height: 43%;
   margin: 0;
+  opacity: .7;
+  position: relative;
 }
 
 .arrow {
   position: absolute;
   height: 10%;
-  width: 10%;
-  /* left: 3%; */
+  margin-left: 1%;
+  padding: 1%;
 }
 
-h4 {
+.box-content {
+  margin: 0 3% 3% 3%;
+  font-weight: 800;
+}
+
+.photos-content {
+  margin: 9% 3% 0 3%
+}
+
+.origin-content {
+  margin: 3% 3% 0 3%;
+}
+
+.number {
+  font-size: 250%;
+  margin: 0 4.5%;
+  color: #404040;
+}
+
+.date-text {
+  margin: 0 3% 3% 3%;
   font-size: 50%;
-}
-
-h2 {
-  margin: 0 5% 0 5%;
 }
 
 .grid-title {
   font-size: 300%;
   font-weight: bold;
+  margin: 3%;
+}
+
+.colored-box {
+  background-color: #F2F2EB;
+  padding: 10%;
 }
 
 .main-title {
-  font-size: 340%;
-  margin-left: 21%;
+  font-size: 380%;
+  margin-left: 26%;
+  margin-bottom: 4%;
+  font-family: 'Creepster', cursive;
 }
 
 .large-number {
@@ -98,7 +141,9 @@ h2 {
   font-size: 300%;
   color: white;
   font-weight: bolder;
-  /* left: 17%; */
+  margin-left: 15%;
+  text-align: right;
+  padding: 1%;
 }
 
 .box-text {
