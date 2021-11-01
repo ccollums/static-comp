@@ -21,15 +21,15 @@
 
 # My Design 
 
-<img width="1302" alt="Screen Shot 2021-10-31 at 6 01 48 PM" src="https://user-images.githubusercontent.com/86894344/139605863-a6a00a8a-1f6d-406c-8c98-3a46c020eec5.png">
+<img width="733" alt="Screen Shot 2021-10-31 at 6 01 48 PM" src="https://user-images.githubusercontent.com/86894344/139605863-a6a00a8a-1f6d-406c-8c98-3a46c020eec5.png">
 
-<img width="1302" alt="Screen Shot 2021-10-31 at 6 02 10 PM" src="https://user-images.githubusercontent.com/86894344/139605864-796097e5-5596-4e47-bd41-13d82a84ba09.png">
+<img width="733" alt="Screen Shot 2021-10-31 at 6 02 10 PM" src="https://user-images.githubusercontent.com/86894344/139605864-796097e5-5596-4e47-bd41-13d82a84ba09.png">
 
 
 # Artists 
 
--Sheet ghost costume for Halloween by Suzanne Strong from NounProject.com
--Arrow by Pixel Bazaar from the Noun Project
--Ghost by Adrien Coquet from the Noun Project
--Pumpkin by Yeong Rong Kim from the Noun Project
--Bat by Andrejs Kirma from the Noun Project
+- Sheet ghost costume for Halloween by Suzanne Strong from NounProject.com
+- Arrow by Pixel Bazaar from the Noun Project
+- Ghost by Adrien Coquet from the Noun Project
+- Pumpkin by Yeong Rong Kim from the Noun Project
+- Bat by Andrejs Kirma from the Noun Project
